@@ -12,6 +12,10 @@
 
 https://github.com/mariakuleshina-cmyk/Arduino-Potentiometer-Python/blob/15f93b2fc50d7bbb2e10ab046b52eee23af1e549/wiring.png
 
+## Технологии
+- C++ (Arduino IDE)
+- Python (pyserial, matplotlib)
+
 ## Функциональность
 1. Arduino считывает значение с потенциометра каждую секунду
 2. Передаёт данные через Serial (9600 бод)
